@@ -1,3 +1,6 @@
+## live on netlify
+agitated-sammet-da299d.netlify.app/
+
 ## ScreenShots
 
 ![picture alt](https://i.ibb.co/7VXjrTT/Capture.png "Test Case With 7")
